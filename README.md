@@ -229,3 +229,5 @@
         Parking lots remain operationally isolated
     📌 Result:
         High throughput with predictable scaling behavior.
+
+Credits to ChatGPT for correct wording and vocabulary in the readMe file. 
